@@ -103,6 +103,8 @@ body {
   display: none;
 }
 
+/* Responsive design */
+
 @media only screen and (max-width: 600px) {
   .card {
     margin: 45px auto;
